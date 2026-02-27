@@ -1,6 +1,6 @@
 # Git Practice Project
 
-* **Author:**Md. Asif Hossain
+* **Author:** Md. Asif Hossain
 * **Date:** 27/02/2026
 
 ## About This Repository
